@@ -1,3 +1,10 @@
+/*
+Autor....: vitor fantin
+data.....: 21/03/2025
+titulo...: Desconto de salario do funcionario
+
+*/
+
 #include <stdio.h>
 int main(){
   char nome[40];
