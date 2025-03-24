@@ -1,3 +1,10 @@
+/*
+Autor....: vitor fantin
+data.....: 21/03/2025
+titulo...: Gasto combustivel
+
+*/
+
 #include <stdio.h>
 int main(){
   float combustivelGastos, kmPercorridos, gastoDoCombustivel = 5.24;
