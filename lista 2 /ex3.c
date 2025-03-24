@@ -1,3 +1,10 @@
+/*
+Autor....: vitor fantin
+data.....: 21/03/2025
+titulo...: Consumo de combustivel
+
+*/
+
 #include <stdio.h>
 int main(){
   float hodoInicial, hodoFinal, litrosGastos, valorTotalRecebido, kmPercorridos, lucroLiquido, consumoMedio;
