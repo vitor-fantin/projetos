@@ -1,3 +1,10 @@
+/*
+Autor....: vitor fantin
+data.....: 21/03/2025
+titulo...: Calcular salario
+
+*/
+
 #include <stdio.h>
 int main(){
   char nome[40], cargo[40];
