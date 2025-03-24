@@ -1,3 +1,10 @@
+/*
+Autor....: vitor fantin
+data.....: 21/03/2025
+titulo...: Calcular comissao de venda de bicicleta
+
+*/
+
 #include <stdio.h>
 int main(){
   int numEmpregados, numBicicletasVend;
